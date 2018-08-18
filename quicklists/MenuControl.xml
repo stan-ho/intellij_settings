@@ -1,0 +1,7 @@
+<list display="MenuControl" description="show menu">
+  <action id="Run" />
+  <action id="Android.BuildApk" />
+  <action id="Android.SyncProject" />
+  <action id="Android.AnalyzeApk" />
+  <action id="Exit" />
+</list>
